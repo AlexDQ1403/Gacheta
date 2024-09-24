@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gacheta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da03ff65de2a743641ce5e026e066d99ef316d5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gacheta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gacheta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,12 +1,135 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A0D77E-9A35-4BF8-A4E4-3B40D3C01535}|DataGA\\DataGA.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\gacheta\\dataga\\entidad\\huesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A0D77E-9A35-4BF8-A4E4-3B40D3C01535}|DataGA\\DataGA.csproj|solutionrelative:dataga\\entidad\\huesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A0D77E-9A35-4BF8-A4E4-3B40D3C01535}|DataGA\\DataGA.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\gacheta\\dataga\\entidad\\parqueadero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A0D77E-9A35-4BF8-A4E4-3B40D3C01535}|DataGA\\DataGA.csproj|solutionrelative:dataga\\entidad\\parqueadero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A0D77E-9A35-4BF8-A4E4-3B40D3C01535}|DataGA\\DataGA.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\gacheta\\dataga\\entidad\\cuarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A0D77E-9A35-4BF8-A4E4-3B40D3C01535}|DataGA\\DataGA.csproj|solutionrelative:dataga\\entidad\\cuarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E502C00-8292-4310-B94D-676AF218ACB9}|Gacheta\\Gacheta.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\gacheta\\gacheta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E502C00-8292-4310-B94D-676AF218ACB9}|Gacheta\\Gacheta.csproj|solutionrelative:gacheta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A0D77E-9A35-4BF8-A4E4-3B40D3C01535}|DataGA\\DataGA.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\gacheta\\dataga\\entidad\\lavanderia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A0D77E-9A35-4BF8-A4E4-3B40D3C01535}|DataGA\\DataGA.csproj|solutionrelative:dataga\\entidad\\lavanderia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E502C00-8292-4310-B94D-676AF218ACB9}|Gacheta\\Gacheta.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\gacheta\\gacheta\\gacheta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E502C00-8292-4310-B94D-676AF218ACB9}|Gacheta\\Gacheta.csproj|solutionrelative:gacheta\\gacheta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A0D77E-9A35-4BF8-A4E4-3B40D3C01535}|DataGA\\DataGA.csproj|c:\\users\\alexc\\onedrive\\im\u00E1genes\\paravisualcode\\gacheta\\dataga\\dataga.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C5A0D77E-9A35-4BF8-A4E4-3B40D3C01535}|DataGA\\DataGA.csproj|solutionrelative:dataga\\dataga.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\Gacheta\\Program.cs",
+              "RelativeDocumentMoniker": "Gacheta\\Program.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\Gacheta\\Program.cs",
+              "RelativeToolTip": "Gacheta\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:01:43.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gacheta.csproj",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\Gacheta\\Gacheta.csproj",
+              "RelativeDocumentMoniker": "Gacheta\\Gacheta.csproj",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\Gacheta\\Gacheta.csproj",
+              "RelativeToolTip": "Gacheta\\Gacheta.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T15:01:43.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lavanderia.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\DataGA\\Entidad\\Lavanderia.cs",
+              "RelativeDocumentMoniker": "DataGA\\Entidad\\Lavanderia.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\DataGA\\Entidad\\Lavanderia.cs",
+              "RelativeToolTip": "DataGA\\Entidad\\Lavanderia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:01:43.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parqueadero.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\DataGA\\Entidad\\Parqueadero.cs",
+              "RelativeDocumentMoniker": "DataGA\\Entidad\\Parqueadero.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\DataGA\\Entidad\\Parqueadero.cs",
+              "RelativeToolTip": "DataGA\\Entidad\\Parqueadero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:01:43.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cuarto.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\DataGA\\Entidad\\Cuarto.cs",
+              "RelativeDocumentMoniker": "DataGA\\Entidad\\Cuarto.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\DataGA\\Entidad\\Cuarto.cs",
+              "RelativeToolTip": "DataGA\\Entidad\\Cuarto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:01:43.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Huesped.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\DataGA\\Entidad\\Huesped.cs",
+              "RelativeDocumentMoniker": "DataGA\\Entidad\\Huesped.cs",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\DataGA\\Entidad\\Huesped.cs",
+              "RelativeToolTip": "DataGA\\Entidad\\Huesped.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:01:41.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataGA.csproj",
+              "DocumentMoniker": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\DataGA\\DataGA.csproj",
+              "RelativeDocumentMoniker": "DataGA\\DataGA.csproj",
+              "ToolTip": "C:\\Users\\alexc\\OneDrive\\Im\u00E1genes\\paravisualcode\\Gacheta\\DataGA\\DataGA.csproj",
+              "RelativeToolTip": "DataGA\\DataGA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T15:01:43.389Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

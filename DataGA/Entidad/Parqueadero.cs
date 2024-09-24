@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace DataGA.Entidad
 {
-    internal class Parqueadero
+    public class Parqueadero
     {
+        public bool Uso_Parqueadero {  get; set; }
+        public int Cedula {  get; set; }
+        // relacion con el cuarto
+        public int N_Cuarto { get; set; }
+        public Cuarto Cuarto { get; set; }
     }
 }
