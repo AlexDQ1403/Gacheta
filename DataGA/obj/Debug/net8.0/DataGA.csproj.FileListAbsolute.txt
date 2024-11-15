@@ -1,0 +1,12 @@
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\bin\Debug\net8.0\DataGA.deps.json
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\bin\Debug\net8.0\DataGA.dll
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\bin\Debug\net8.0\DataGA.pdb
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\obj\Debug\net8.0\DataGA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\obj\Debug\net8.0\DataGA.AssemblyInfoInputs.cache
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\obj\Debug\net8.0\DataGA.AssemblyInfo.cs
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\obj\Debug\net8.0\DataGA.csproj.CoreCompileInputs.cache
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\obj\Debug\net8.0\DataGA.sourcelink.json
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\obj\Debug\net8.0\DataGA.dll
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\obj\Debug\net8.0\refint\DataGA.dll
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\obj\Debug\net8.0\DataGA.pdb
+C:\Users\alexc\OneDrive\Imágenes\paravisualcode\Gacheta\DataGA\obj\Debug\net8.0\ref\DataGA.dll

@@ -1,13 +1,15 @@
 using DataGA.Entidad;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System.Collections.Generic;
 using System.Reflection.Emit;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-
+builder.Services.AddDbContext<Data_Context>();
 var app = builder.Build();
 
 
@@ -29,17 +31,3 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
-public class HotelDbContext : DbContext
-{
-    public HotelDbContext(DbContextOptions<HotelDbContext> options)
-        : base(options)
-    {
-    }
-
-    public DbSet<Cuarto> Cuartos { get; set; }
-    public DbSet<Huesped> Clientes { get; set; }
-    public DbSet<Parqueadero> Parqueaderos { get; set; }
-    public DbSet<Lavanderia> Lavanderias { get; set; }
-
-   
-}
